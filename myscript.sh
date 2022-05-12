@@ -1,1 +1,1 @@
-cat ${INPUT}-${BUILD_NUMBER}-DATA > jenkinsresult.txt
+echo ${INPUT}-${BUILD_NUMBER}-DATA > jenkinsresult.txt
